@@ -10,10 +10,10 @@ Producer → Kafka (test-events topic) → Consumer → ClickHouse Cloud
 
 ## Tech Stack
 
-- **Apache Kafka** — event streaming (Docker, KRaft mode)
-- **ClickHouse Cloud** — real-time analytics database (free tier)
-- **KafkaJS** — Kafka client for Node.js
-- **TypeScript** — language
+- **Apache Kafka** - event streaming (Docker, KRaft mode)
+- **ClickHouse Cloud** - real-time analytics database (free tier)
+- **KafkaJS** - Kafka client for Node.js
+- **TypeScript** - language
 
 ## Project Structure
 
